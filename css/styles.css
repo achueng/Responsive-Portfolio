@@ -20,12 +20,9 @@ body {
     background-color: #fad3e0;
 }
 
-.images {
+#about-me {
     width: 300px;
     height: 300px;
-}
-
-#about-me {
     margin-right: 1rem;
 }
 
