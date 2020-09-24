@@ -3,6 +3,10 @@ body {
     background-position: center;
 }
 
+.custom-nav-bg {
+    background-color: #f8eaf5 !important;
+}
+
 .custom-navbar {
     justify-content: flex-end;
 }
