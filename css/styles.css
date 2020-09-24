@@ -2,6 +2,10 @@
     justify-content: flex-end;
 }
 
+.custom-container {
+    margin-top: 6rem;
+}
+
 footer {
     text-align: center;
     background-color: #d5c1de;
