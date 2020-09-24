@@ -1,3 +1,8 @@
 .custom-navbar {
     justify-content: flex-end;
 }
+
+footer {
+    text-align: center;
+    background-color: #d5c1de;
+}
