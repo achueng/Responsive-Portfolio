@@ -9,13 +9,15 @@ This is a responsive portfolio about me.
 - Portfolio
 - Contact
 
-This is what the About Me page looks like. 
+This is what the About Me page looks like on the computer with a large screen.
 ![About Me Page](./assets/index-ss.png)
 
-This is what the Portfolio page looks like. 
+This is the Portfolio page.
 ![Portfolio Page](./assets/portfolio-ss.png)
 
-This is what the Contact page looks like. 
+This is the Contact page.
 ![Contact Page](./assets/contact-ss.png)
 
+#### TRY IT ON A SMALLER SCREEN!
 
+Utilizing the media queries built into Bootstrap, a responsive website was created!
