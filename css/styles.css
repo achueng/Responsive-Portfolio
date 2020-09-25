@@ -28,6 +28,11 @@ body {
     margin-right: 1rem;
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 footer {
     text-align: center;
     background-color: #d5c1de;
