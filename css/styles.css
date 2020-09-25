@@ -42,3 +42,11 @@ footer {
     top: -0.1rem;
     right: 1.5rem;
 }
+
+.credit:hover,
+.credit:active,
+.credit:visited
+{
+    text-decoration: none;
+    color: #15314a;
+}
