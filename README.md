@@ -18,6 +18,6 @@ This is the Portfolio page.
 This is the Contact page.
 ![Contact Page](./assets/contact-ss.png)
 
-#### TRY IT ON A SMALLER SCREEN!
+### TRY IT ON A SMALLER SCREEN!
 
 Utilizing the media queries built into Bootstrap, a responsive website was created!
