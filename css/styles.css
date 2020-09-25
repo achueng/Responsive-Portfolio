@@ -31,4 +31,14 @@ body {
 footer {
     text-align: center;
     background-color: #d5c1de;
+    position: relative;
+}
+
+.credit {
+    font-size: 10px;
+    font-weight: lighter;
+    color: #000000;
+    position: absolute;
+    top: -0.1rem;
+    right: 1.5rem;
 }
