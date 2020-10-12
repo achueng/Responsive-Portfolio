@@ -30,7 +30,7 @@ body {
 
 img {
     height: auto;
-    width: auto;
+    width: 100%;
 }
 
 .card {
