@@ -1,0 +1,62 @@
+body {
+    background-image: url(../assets/watercolor-design-pastel-bkg.jpg);
+    /* Background image taken from Freepik. Design credited to Freepik. 
+    Full URL: https://www.freepik.com/free-vector/watercolor-design-pastel-background_7335470.htm */
+    background-position: center;
+}
+
+.custom-nav-bg {
+    background-color: #f8eaf5 !important;
+}
+
+.custom-navbar {
+    justify-content: flex-end;
+}
+
+.custom-container {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+.custom-jt {
+    background-color: #fad3e0;
+}
+
+#about-me {
+    width: 300px;
+    height: 300px;
+    margin-right: 1rem;
+}
+
+img {
+    height: 70%;
+    width: 100%;
+}
+
+.card {
+    width: 16rem;
+    padding: 1rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #d5c1de;
+    position: relative;
+}
+
+.credit {
+    font-size: 10px;
+    font-weight: lighter;
+    color: #000000;
+    position: absolute;
+    top: -0.1rem;
+    right: 1.5rem;
+}
+
+.credit:hover,
+.credit:active,
+.credit:visited
+{
+    text-decoration: none;
+    color: #15314a;
+}
