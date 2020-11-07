@@ -3,7 +3,7 @@ const router = express.Router();
 const path = require("path");
 const dirHTML = path.join(__dirname, "../public/")
 
-// Code to get and post goes here
+// HTML Routes
 router.get("/", function(req, res) {
     res.sendFile(path.join(dirHTML, "index.html"));
 });
